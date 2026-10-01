@@ -254,7 +254,7 @@ http://localhost:8000/
 
 The dashboard is deployed using GitHub Pages:
 
-### 🚀 [Open the Live Dashboard](https://0403darknight.github.io/-Crime-Data-Analysis-using-Hadoop-Interactive-Dashboard/)
+### 🚀 [Open the Live Dashboard](https://0403darknight.github.io/Crime-Data-Analysis-using-Hadoop-Interactive-Dashboard/)
 
 The live version allows visitors to explore the dashboard without installing Hadoop locally.
 
