@@ -8,7 +8,7 @@
 
 > **An end-to-end Big Data crime analytics project that uses Hadoop MapReduce to process district-level crime data and an interactive web dashboard to explore crime patterns across India.**
 
-[🚀 **Live Dashboard**](https://0403darknight.github.io/-Crime-Data-Analysis-using-Hadoop-Interactive-Dashboard/)
+[🚀 **Live Dashboard**](https://0403darknight.github.io/Crime-Data-Analysis-using-Hadoop-Interactive-Dashboard/)
 
 ---
 
